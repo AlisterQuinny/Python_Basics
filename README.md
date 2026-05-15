@@ -76,8 +76,6 @@ This program returns:
 
 ---
 
-# Additional Python Programs Explanation
-
 ## Less Than 5
 This program prints all numbers from a list that are smaller than 5. :contentReference[oaicite:0]{index=0}
 
